@@ -93,14 +93,14 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "136 Hoy Road", city = "Ithaca", region = "NY", postcode = "14850", country = "United States", country_code = "US"}
+address = {street = "657 Frank H.T. Hodes Hall, 136 Hoy Road", city = "Ithaca", region = "NY", postcode = "14850", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "42.44349", longitude = "-76.48148"}
 
 # Directions for visitors to locate you.
-directions = "Office Located in Room 657"
+directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
