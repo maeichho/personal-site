@@ -27,10 +27,10 @@ interests:
 education:
   courses:
   - course: PhD in Applied Mathematics
-    institution: [Cornell University](https://cornell.edu)
+    institution: Cornell University
     year: 2024 (anticipated)
   - course: BS in Mathematics and Computer Science
-    institution: [University at Buffalo](https://buffalo.edu)
+    institution: University at Buffalo
     year: 2019
 
 # Social/Academic Networking
