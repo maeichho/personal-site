@@ -40,7 +40,7 @@ summary: We propose scalable methods to execute counting queries in machine lear
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 links:
