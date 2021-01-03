@@ -9,7 +9,7 @@ authors:
 - Albert Gu
 - maeichho
 - Atri Rudra
-- Christopher R$\'{e}$
+- Christopher R$\'e$
 
 # Author notes (optional)
 #author_notes:
@@ -45,7 +45,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: arXiv
-  url: https://arxiv.org/abs/1804.04640
+  url: https://arxiv.org/abs/1903.05895
 
 url_pdf: 'icml19.pdf'
 url_code: 'https://github.com/HazyResearch/butterfly'
