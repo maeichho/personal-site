@@ -9,7 +9,7 @@ authors:
 - Albert Gu
 - maeichho
 - Atri Rudra
-- Christopher R$\\'{e}$
+- Christopher R$\\\'{e}$
 
 # Author notes (optional)
 #author_notes:
