@@ -23,12 +23,12 @@ content:
   order: desc
   
   # Filter on criteria
-  filters:
-    tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
-    exclude_featured: true
+  #filters:
+  #  tag: ''
+  #  category: ''
+  #  publication_type: ''
+  #  author: ''
+  #  exclude_featured: true
 
   # ---------- OR --------------- 
   # Filter toolbar
