@@ -43,9 +43,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1804.04640
 
 url_pdf: 'uai2018.pdf'
 url_code: 'https://gitlab.com/SCoRe-Group/SABNA-Release'
