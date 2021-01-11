@@ -9,8 +9,8 @@ subtitle: ""
 
 design:
   columns: 2
-  background: 
-    color: 'navy'
+#  background: 
+#    color: 'navy'
 #    gradient_start = 'DarkGreen'  
 #    gradient_end = "ForestGreen"
 #    text_color_light = true

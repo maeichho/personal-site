@@ -5,18 +5,26 @@ name = "Cornell"
 light = true
 
 # Primary
-primary = "#1565c0"
+primary = "#b31b1b"
 
 # Menu
-menu_primary = "#ff0"
-menu_text = "#34495e"
-menu_text_active = "#2962ff"
-menu_title = "#2b2b2b"
+menu_primary = "#b31b1b"
+menu_text = "#f7f7f7"
+menu_text_active = "#ffffff"
+menu_title = "#ffffff"
 
 # Home sections
-home_section_odd = "rgb(255, 255, 255)"
-home_section_even = "rgb(247, 247, 247)"
+home_section_odd = "#fcebe9"
+home_section_even = "#f8d6d3"
 
 [dark]
+  menu_primary = "#b31b1b"
+  menu_text = "#f7f7f7"
+  menu_text_active = "#ffffff"
+  menu_title = "#ffffff"
+
+  home_section_odd = "#160303"
+  home_section_even = "430a0a"
+
   link = "#bbdefb"
   link_hover = "#bbdefb"
