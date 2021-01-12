@@ -1,33 +1,22 @@
-# Give the workflow a name
-name: Deploy to gh-pages
+name: Publish Site
 
-# Controls when the action will run. Triggers the workflow on push request
-# events to the master branch.
 on:
   push:
-    branches: [ master ]
+    branches:
+      - master
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  Build_and_Deploy:
-    runs-on: ubuntu-18.04
+  build-deploy:
+    runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout Repo
+        uses: actions/checkout@master
         with:
-          submodules: true  # Fetch Hugo themes (true OR recursive)
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
-
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+          submodules: true
+      - name: Publish Site
+        uses: chabad360/hugo-gh-pages@master
         with:
-          hugo-version: '0.80.0'
-          extended: true
-
-      - name: Build
-        run: hugo --minify
-
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.SITE_TOKEN }}
-          publish_dir: ./public
+          githubToken: ${{ secrets.SITE_TOKEN }}
+          branch: main
+          repo: maeichho/maeichho.github.io
