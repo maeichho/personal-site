@@ -1,15 +1,26 @@
-name: Updater (WIP)
+name: Publish Site
 
 on:
-  schedule:
-    - cron: 0 0 * * 0
+  push:
+    branches:
+      - master
 
 jobs:
-  update:
-    if: github.repository_owner == 'wowchemy'
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: wowchemy/gh-action-updater@v1
-        with:
-          feed-url: https://wowchemy.com/blog/index.xml
-          readme-section: news
+    - name: Checkout master
+      uses: actions/checkout@v1
+      with:
+        submodules: true
+
+    - name: Hugo Deploy GitHub Pages
+      uses: benmatselby/hugo-deploy-gh-pages@master
+      env:
+        HUGO_VERSION: 0.91.0
+        TARGET_REPO: maeichho/maeichho.github.io
+        TARGET_BRANCH: main
+        TOKEN: ${{ secrets.SITE_TOKEN }}
+        HUGO_EXTENDED: true
+        HUGO_FLAGS: --verbose  
