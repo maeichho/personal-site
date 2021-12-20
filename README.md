@@ -39,6 +39,7 @@ We're an open source movement that depends on your support to stay online and th
 - [Open book](https://unsplash.com/photos/J4kK8b9Fgj8)
 - [Course](https://unsplash.com/photos/JKUTrJ4vK00)
 
+
 ## Latest news
 <!--START_SECTION:news-->
 * [What&#39;s new in v5.2?](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;v5.2.0&#x2F;)
