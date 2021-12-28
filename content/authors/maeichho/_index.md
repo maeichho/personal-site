@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Matt Eichhorn
+title: Matthew Eichhorn
 
 # Is this the primary user of the site?
 superuser: true
