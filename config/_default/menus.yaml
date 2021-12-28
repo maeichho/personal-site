@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: About Me
     url: '#about'
     weight: 10
   - name: Publications
@@ -13,6 +13,20 @@ main:
   - name: Teaching
     url: '#teaching'
     weight: 30
+  
+  - name: Course Materials
+    url: 'materials/about/'
+    weight: 50 
+    #identifier: 'm'
+    #- name: Applied Calculus
+    #url: 'materials/math1106/'
+    #parent: 'm'
+    #- name: Discrete Math
+    #url: 'materials/cs2800/'
+    #parent: 'm'
+    #- name: Linear Algebra
+    #url: 'materials/math2210/'
+    #parent: 'm'
 
   - name: CV
     url: 'uploads/resume.pdf'
