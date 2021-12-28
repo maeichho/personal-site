@@ -32,5 +32,5 @@ I have been a teaching assistant for the following courses:
 - MTH 141: Introductory Calculus (Fall 2016)
 
 
-In addition, I have worked as part of the Cornell Math Department's [Active Learning Initiative](https://e.math.cornell.edu/sites/activelearn/) to develop course materials for many introductory courses including applied calculus (MATH 1106), multivariable calculus (MATH 1920), and linear algebra (MATH 2210).  
+In addition, I have had positions through the Cornell Math Department's [Active Learning Initiative](https://e.math.cornell.edu/sites/activelearn/) and the Cornell Computer Science Department to develop [course materials](materials/about/). 
 

@@ -33,4 +33,6 @@ I have included worksheets from three courses that I have helped to develop:
 
    <p style='text-align: justify;'> An introduction to discrete mathematics for computer science majors. Students learn how to write formal proofs while studying topics including logic, sets and functions, number theory, combinatorics, probability, and finite automata. </p>
 
+<br>
+
 Please feel free to reach out to me if you have questions or suggestions about these materials. If you are interested in using these activities, either directly or with modification, let me know. I'm happy to provide the source code, instructor guides, and typeset solutions. 
