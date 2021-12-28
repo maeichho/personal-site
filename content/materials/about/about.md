@@ -12,7 +12,7 @@ design:
 ---
 
 <p style='text-align: justify;'>
-I am passionate about active insitruction, and love to develop classroom materials that help students engage with the material. Good class activities should help to reinforce concepts and techniques from the lecture and reading, while also providing students with interesting examples that place the material in context and motivate further exploration. I learn best when I can connect new ideas with other things that I have studied or real-world problems with which I am familiar. I have tried to establish these conenctions in many of the worksheets. Beyond this, I enjoy tinkering around in LaTeX, so have tried to typeset the activities in a beautiful, inviting, and professional manner. 
+I am passionate about active instruction and love to design worksheets and activities that help students engage with the course material. Good class activities should help to reinforce concepts and techniques from the lecture and reading, while also providing students with interesting examples that place the material in context and motivate further exploration. I learn best when I can connect new ideas with other things that I have studied or real-world problems with which I am familiar. I have tried to establish these conenctions in many of the worksheets. Beyond this, I enjoy tinkering around in LaTeX, so have tried to typeset the activities in a beautiful, inviting, and professional manner. 
 
 I have included worksheets from three courses that I have helped to develop:
 </p>
@@ -33,3 +33,4 @@ I have included worksheets from three courses that I have helped to develop:
 
    <p style='text-align: justify;'> An introduction to discrete mathematics for computer science majors. Students learn how to write formal proofs while studying topics including logic, sets and functions, number theory, combinatorics, probability, and finite automata. </p>
 
+Please feel free to reach out to me if you have questions or suggestions about these materials. If you are interested in using these activities, either directly or with modification, let me know. I'm happy to provide the source code, instructor guides, and typeset solutions. 
