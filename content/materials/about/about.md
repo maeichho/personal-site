@@ -36,5 +36,5 @@ I have included worksheets from three courses that I have helped to develop:
 <br>
 
 <p style='text-align: justify;'>
-Please feel free to reach out to me if you have questions or suggestions about these materials. If you are interested in using these activities, either directly or with modification, let me know. I'm happy to provide the source code, instructor guides, and typeset solutions. 
+Please feel free to reach out to me if you have questions or suggestions about these materials. If you are interested in using these activities, either directly or with modification, let me know. I'm happy to provide the source code, instructor guides, and typeset solutions (where available). 
 </p>
