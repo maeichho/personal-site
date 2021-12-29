@@ -37,7 +37,7 @@ abstract: Fast linear transforms are ubiquitous in machine learning, including t
 # Summary. An optional shortened abstract.
 summary: We introduce a parameterization of divide-and-conquer methods that is capable of representing a large class of linear transforms. This generic formulation can automatically learn an efficient algorithm for many such transforms, including the FFT.
 
-tags: []
+tags: ['publication']
 
 # Display this page in the Featured widget?
 featured: false

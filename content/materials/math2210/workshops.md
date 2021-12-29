@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Publications
+title: Workshops
 subtitle: ''
 
 content:
@@ -24,7 +24,7 @@ content:
   
   # Filter on criteria
   filters:
-    tag: 'publication'
+    tag: 'MATH 2210 Workshop'
     category: ''
     publication_type: ''
     author: ''
@@ -36,7 +36,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 3
+  view: 3 
 ---
 
 

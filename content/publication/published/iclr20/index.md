@@ -40,7 +40,7 @@ abstract: "Modern neural network architectures use structured linear transformat
 # Summary. An optional shortened abstract.
 summary: We introduce a family of matrices that provably capture any structured matrix with near-optimal parameter and arithmetic operation complexity. We empirically validate that these matrices can be automatically learned within end-to-end pipelines to improve model quality.
 
-tags: []
+tags: ['publication']
 
 # Display this page in the Featured widget?
 featured: false
