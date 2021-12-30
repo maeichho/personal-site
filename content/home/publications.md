@@ -24,7 +24,7 @@ content:
   
   # Filter on criteria
   filters:
-    tag: 'publication'
+    tag: ''
     category: ''
     publication_type: ''
     author: ''

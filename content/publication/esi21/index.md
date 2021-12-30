@@ -36,7 +36,7 @@ abstract: Most previous studies of homegardens have used labor-intensive boots-o
 # Summary. An optional shortened abstract.
 summary: We demonstrate the feasibility of using the high-resolution street-level photographs in Google Street View and an object-detection network (RetinaNet) to create a large-scale high-resolution survey of the prevalence of at least six plant species widely grown in road-facing homegardens in Thailand.
 
-tags: ['publication']
+tags: []
 
 # Display this page in the Featured widget?
 featured: false

@@ -37,7 +37,7 @@ abstract: We propose scalable methods to execute counting queries in machine lea
 # Summary. An optional shortened abstract.
 summary: We propose scalable methods to execute counting queries in machine learning applications.
 
-tags: ['publication']
+tags: []
 
 # Display this page in the Featured widget?
 featured: false
