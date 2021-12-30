@@ -1,7 +1,4 @@
 ---
-# Homepage
+title: "Math 2210"
 type: widget_page
-active: false
-# Homepage is headless, other widget pages are not.
-headless: false
 ---

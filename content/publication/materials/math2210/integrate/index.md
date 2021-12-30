@@ -15,9 +15,9 @@ publishDate: "2021-07-01T00:00:00Z"
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-abstract: Students recall the tricky "wrap-around" integration by parts calculations from calculus. By recognizing that the derivative is an invertible linear transformation for some choices of basis functions, we can recast these integrals as matrix multiplication.
+abstract: Students recall the tricky "wrap-around" integration by parts calculations from calculus. By recognizing that the derivative is an invertible linear transformation for some choices of basis functions, we can solve these integrals using matrix multiplication.
 
-summary: Students recall the tricky "wrap-around" integration by parts calculations from calculus. By recognizing that the derivative is an invertible linear transformation for some choices of basis functions, we can recast these integrals as matrix multiplication.
+summary: Students recall the tricky "wrap-around" integration by parts calculations from calculus. By recognizing that the derivative is an invertible linear transformation for some choices of basis functions, we can solve these integrals using matrix multiplication.
 
 tags: ['MATH 2210 Workshop']
 
