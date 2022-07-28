@@ -14,7 +14,7 @@ organizations:
   url: https://cam.cornell.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a third-year PhD student interested in the design of algorithms for combinatorial problems, specifically those with game theoretic applications.
+bio: I am a fourth-year PhD student interested in the design of algorithms for combinatorial problems, specifically those with game theoretic applications.
 
 # Interests to show in About widget
 interests:
@@ -29,7 +29,10 @@ education:
   - course: PhD in Applied Mathematics
     institution: Cornell University
     year: 2024 (anticipated)
-  - course: BS in Mathematics and Computer Science
+  - course: Masters of Science
+    institution: Cornell University
+    year: 2022
+  - course: Bachelors of Science in Mathematics and Computer Science
     institution: University at Buffalo
     year: 2019
 
@@ -69,5 +72,5 @@ highlight_name: false
 ---
 
 <p style='text-align: justify;'>
-I am a third-year PhD student in the Center for Applied Mathematics at Cornell University, where I am advised by <a href="https://people.orie.cornell.edu/sbanerjee/">Siddhartha Banerjee</a>. My research focuses on the design of algorithms for combinatorial problems, particularly with applications to game theory. In addition, I have a passion for teaching and curricular development. I have helped to develop undergraduate course materials for the Cornell Math Department's Active Learning Initiative. Beyond academia, I am an avid baker and a devoted fan of the Buffalo Bills. 
+I am a fourth-year PhD student in the Center for Applied Mathematics at Cornell University, where I am advised by <a href="https://people.orie.cornell.edu/sbanerjee/">Siddhartha Banerjee</a>. My research focuses on the design of algorithms for combinatorial problems, particularly with applications to game theory. In addition, I have a passion for teaching and curricular development. I have helped to develop undergraduate course materials for the Cornell Math Department's Active Learning Initiative. Beyond academia, I am an avid baker and a devoted fan of the Buffalo Bills. 
 </p>

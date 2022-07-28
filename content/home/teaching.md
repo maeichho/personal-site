@@ -20,6 +20,7 @@ I have been a teaching assistant for the following courses:
 
 ## Cornell University
 
+- CS 2111: Programming Practicum, Java (Spring 2022)
 - CS 4820: Introduction to Analysis of Algorithms (Fall 2021)
 - MATH 1106: Modeling with Calculus for the Life Sciences (Spring 2020, 2021)
 
