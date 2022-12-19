@@ -16,7 +16,9 @@ design:
 #    text_color_light = true
 ---
 
-I have been a teaching assistant for the following courses:
+In Fall 2022, I co-taught CS 2800: Discrete Structures with <a href="https://alexandrasilva.org/#/main.html">Alexandra Silva</a>.
+
+In addition, I have been a teaching assistant for the following courses:
 
 ## Cornell University
 
@@ -33,5 +35,5 @@ I have been a teaching assistant for the following courses:
 - MTH 141: Introductory Calculus (Fall 2016)
 
 
-In addition, I have had positions through the Cornell Math Department's [Active Learning Initiative](https://e.math.cornell.edu/sites/activelearn/) and the Cornell Computer Science Department to develop [course materials](materials/about/). 
+Finally, I have had positions through the Cornell Math Department's [Active Learning Initiative](https://e.math.cornell.edu/sites/activelearn/) and the Cornell Computer Science Department to develop [course materials](materials/about/). 
 

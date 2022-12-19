@@ -18,8 +18,8 @@ abstract:  In many settings, such as university admissions, the rationing of med
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-06-06T00:00:00Z'
-date_end: '2022-06-08T00:00:00Z'
+date: '2022-06-06T10:45:00Z'
+#date_end: '2022-06-08T00:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).

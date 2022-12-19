@@ -18,8 +18,8 @@ abstract:  Randomized experiments are widely used to estimate causal effects of 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-05-23T00:00:00Z'
-date_end: '2022-05-25T00:00:00Z'
+date: '2022-05-23T14:50:00Z'
+#date_end: '2022-05-25T00:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
