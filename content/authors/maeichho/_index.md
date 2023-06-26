@@ -14,7 +14,7 @@ organizations:
   url: https://cam.cornell.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a fourth-year PhD student interested in the design of algorithms for combinatorial problems, specifically those with game theoretic applications.
+bio: I am a fifth-year PhD student interested in the design of algorithms for combinatorial problems, specifically those with game theoretic applications.
 
 # Interests to show in About widget
 interests:
@@ -72,5 +72,5 @@ highlight_name: false
 ---
 
 <p style='text-align: justify;'>
-I am a fourth-year PhD student in the Center for Applied Mathematics at Cornell University, where I am advised by <a href="https://people.orie.cornell.edu/sbanerjee/">Siddhartha Banerjee</a>. My research focuses on the design of algorithms for combinatorial problems, particularly with applications to game theory. In addition, I have a passion for teaching and curricular development. I have helped to develop undergraduate course materials for the Cornell Math Department's Active Learning Initiative. Beyond academia, I am an avid baker and a devoted fan of the Buffalo Bills. 
+I am a fifth-year PhD student in the Center for Applied Mathematics at Cornell University, where I am advised by <a href="https://people.orie.cornell.edu/sbanerjee/">Siddhartha Banerjee</a>. My current research mainly falls into two focal areas. First, I am interested in the design of online algorithms for combinatorial problems, particularly with applications to game theory. Second, I am eager to develop better estimators for causal effects in settings with network interference. In addition, I have a passion for teaching and curricular development. I have helped to develop undergraduate course materials for the Cornell Math Department's Active Learning Initiative, Cornell Engineering's Academic Excellence Workshops, and Cornell's Computer Science department. Beyond academia, I am interested in cooking, baking, and origami, and I am a devoted fan of the Buffalo Bills. 
 </p>
