@@ -18,6 +18,10 @@ design:
 
 In Fall 2022, I co-taught CS 2800: Discrete Structures with <a href="https://alexandrasilva.org/#/main.html">Alexandra Silva</a>.
 
+I will be teaching CS 2800 again this fall with <a href="https://www.noahsd.com/">Noah Stephens-Davidowitz</a>.
+
+In Summer 2023, I taught ENGRI 1101: Engineering Applications of Operations Research as part of Cornell's <a href="https://sce.cornell.edu/courses/roster/pssp">Pre-Collegiate Summer Scholars Program</a>.
+
 In addition, I have been a teaching assistant for the following courses:
 
 ## Cornell University
