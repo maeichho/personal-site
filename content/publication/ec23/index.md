@@ -24,11 +24,11 @@ publishDate: "2023-06-26T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: To appear at *Economics and Computation*
-publication_short: To appear at *EC*
+publication: In *Economics and Computation*
+publication_short: In *EC*
 
 abstract: 'In many applications such as rationing medical care and supplies, university admissions, and the assignment of public housing, the decision of who receives an allocation can be justified by various normative criteria (ethical, financial, legal, etc.). Such settings have motivated the following priority-respecting allocation problem: several categories, each with a quota of interchangeable items, wish to allocate the items among a set of agents. Each category has a list of eligible agents and a priority ordering over these agents; agents may be eligible in multiple categories. The goal is to select a valid allocation: one that respects quotas, eligibility, and priorities and ensures Pareto efficiency.  
 We provide a complete algorithmic characterization of all valid allocations, exhibiting a bijection between sets of agents who can be allocated and maximum-weight matchings under carefully chosen rank-based weights. While prior work provides a polynomial-time algorithm to locate a valid allocation, our characterization admits a simpler algorithm that enables two wide-reaching extensions:
@@ -55,8 +55,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: '' 
-# TODO ^ Update! slides.pdf^
+url_slides: 'slides.pdf' 
 url_source: ''
 url_video: ''
 
