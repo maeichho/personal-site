@@ -14,21 +14,21 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2023-06-21T00:00:00Z"
+date: "2023-08-04T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-06-21T00:00:00Z"
+publishDate: "2023-08-04T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: To appear in *Journal of Causal Inference*
-publication_short: To appear in *JCI*
+publication: In *Journal of Causal Inference*
+publication_short: In *JCI*
 
 abstract: 'Network interference, where the outcome of an individual is affected by the treatment assignment of those in their social network, is pervasive in real-world settings. However, it poses a challenge to estimating causal effects. We consider the task of estimating the total treatment effect (TTE), or the difference between the average outcomes of the population when everyone is treated versus when no one is, under network interference. Under a Bernoulli randomized design, we provide an unbiased estimator for the TTE when network interference effects are constrained to low order interactions among neighbors of an individual. We make no assumptions on the graph other than bounded degree, allowing for well-connected networks that may not be easily clustered. We derive a bound on the variance of our estimator and show in simulated experiments that it performs well compared with standard estimators for the TTE. We also derive a minimax lower bound on the mean squared error of our estimator which suggests that the difficulty of estimation can be characterized by the degree of interactions in the potential outcomes model. We also prove that our estimator is asymptotically normal under boundedness conditions on the network degree and potential outcomes model. Central to our contribution is a new framework for balancing model flexibility and statistical complexity as captured by this low order interactions structure.'
 
