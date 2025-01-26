@@ -6,7 +6,7 @@ title: "Exploiting Neighborhood Interference with Low Order Interactions under U
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Mayleen Cortez-Rodriguez
-- maeichho
+- admin
 - Christina Lee Yu
 
 # Author notes (optional)
@@ -24,7 +24,7 @@ publishDate: "2023-08-04T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: [Journal article]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Journal of Causal Inference*

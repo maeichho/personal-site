@@ -25,7 +25,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2022-07-28T00:00:00Z'
 
-authors: ["Mayleen Cortez","Matthew Eichhorn","Christina Lee Yu"]
+authors: ["Mayleen Cortez",admin,"Christina Lee Yu"]
 tags: []
 
 # Is this a featured talk? (true/false)

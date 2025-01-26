@@ -25,7 +25,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2022-07-28T00:00:00Z'
 
-authors: ["Siddhartha Banerjee","Matthew Eichhorn","David Kempe"]
+authors: ["Siddhartha Banerjee",admin,"David Kempe"]
 tags: []
 
 # Is this a featured talk? (true/false)

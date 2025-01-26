@@ -6,7 +6,7 @@ title: "Staggered Rollout Designs Enable Causal Inference under Interference wit
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Mayleen Cortez 
-- maeichho
+- admin
 - Christina Lee Yu 
 
 # Author notes (optional)
@@ -24,7 +24,7 @@ publishDate: "2022-11-28T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: [Conference paper]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Advances in Neural Information Processing Systems*

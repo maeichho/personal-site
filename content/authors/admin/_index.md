@@ -1,0 +1,159 @@
+---
+# Display name
+title: Matthew Eichhorn
+
+# Full name (for SEO)
+first_name: Matthew
+last_name: Eichhorn
+
+# Is this the primary user of the site?
+superuser: true
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+
+# Role/position/tagline
+role: Lecturer
+
+# Organizations/Affiliations to display in Biography blox
+organizations:
+  - name: Department of Computer Science
+    url: https://www.cs.cornell.edu/
+  - name: Cornell University
+    url: https://www.cornell.edu/
+
+# Social network links
+# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+profiles:
+  - icon: envelope
+    url: 'mailto:meichhorn@cornell.edu'
+    label: E-mail Me
+  - icon: academicons/google-scholar  # Alternatively, use `graduation-cap` icon from `fas` icon pack
+    url: https://scholar.google.com/citations?user=13yqSuIAAAAJ
+    label: Google Scholar
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/matthew-eichhorn
+  - icon: academicons/cv
+    link: resume.pdf
+
+interests:
+  - Causal Inference
+  - Online Algorithms
+  - Mechanism Design
+  - Combinatorics
+
+education:
+  - area: PhD in Applied Mathematics
+    institution: Cornell University
+    date_start: 2019-08-01
+    date_end: 2024-08-31
+    summary: |
+      Dissertation: Incentives, Causality, and Fairness: The Mathematics of Societal Decision-Making. Supervised by [Professor Siddhartha Banerjee](https://sidbanerjee.orie.cornell.edu/).
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
+  - area: BS in Computer Science and Mathematics
+    institution: University at Buffalo
+    date_start: 2015-08-25
+    date_end: 2015-05-31
+    summary: |
+      Honors Thesis: Neural Networks for Plant Species Recognition in Street View Imagery 
+      GPA: 4.0/4.0
+  # - area: BSc Artificial Intelligence
+  #   institution: Massachusetts Institute of Technology
+  #   date_start: 2016-01-01
+  #   date_end: 2020-12-31
+  #   summary: |
+  #     GPA: 3.4/4.0
+      
+  #     Courses included:
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+work:
+  - position: Lecturer
+    company_name: Cornell University
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-08-01
+    date_end: ''
+    #summary: 
+
+# Skills
+# Add your own SVG icons to `assets/media/icons/`
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - name: Python
+#         description: ''
+#         percent: 80
+#         icon: code-bracket
+#       - name: Data Science
+#         description: ''
+#         percent: 100
+#         icon: chart-bar
+#       - name: SQL
+#         description: ''
+#         percent: 40
+#         icon: circle-stack
+#   - name: Hobbies
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items:
+#       - name: Hiking
+#         description: ''
+#         percent: 60
+#         icon: person-simple-walk
+#       - name: Cats
+#         description: ''
+#         percent: 100
+#         icon: cat
+#       - name: Photography
+#         description: ''
+#         percent: 80
+#         icon: camera
+
+# languages:
+#   - name: English
+#     percent: 100
+#   - name: Chinese
+#     percent: 75
+#   - name: Portuguese
+#     percent: 25
+
+# Awards.
+#   Add/remove as many awards below as you like.
+#   Only `title`, `awarder`, and `date` are required.
+#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+
+# awards:
+#   - title: Neural Networks and Deep Learning
+#     url: https://www.coursera.org/learn/neural-networks-deep-learning
+#     date: '2023-11-25'
+#     awarder: Coursera
+#     icon: coursera
+#     summary: |
+#       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+#   - title: Blockchain Fundamentals
+#     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+#     date: '2023-07-01'
+#     awarder: edX
+#     icon: edx
+#     summary: |
+#       Learned:
+#       - Synthesize your own blockchain solutions
+#       - Gain an in-depth understanding of the specific mechanics of Bitcoin
+#       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+#   - title: 'Object-Oriented Programming in R'
+#     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+#     certificate_url: https://www.datacamp.com
+#     date: '2023-01-21'
+#     awarder: datacamp
+#     icon: datacamp
+#     summary: |
+#       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+---
+
+## About Me
+
+I am a lecturer in Cornell's Computer Science, where I teach large undergraduate courses on discrete mathematics and programming. I have a passion for teaching and curricular development. You can find some materials that I developed for the Cornell Math Department's Active Learning Initiative and the Cornell Engineering Academic Excellence Workshops linked on this site. I plan to update it soon to include more of my course materials. I completed my PhD in the Cornell Center for Applied Mathematics, where I was advised by [Siddhartha Banerjee](https://sidbanerjee.orie.cornell.edu/) and [Christina Lee Yu](https://cleeyu.orie.cornell.edu/). Outside of academia, I am a fan of games and puzzles (in particular, the New York Times crosswords). I also enjoy cooking and baking. Finally, as a Buffalo native, I am a devoted Bills fan!

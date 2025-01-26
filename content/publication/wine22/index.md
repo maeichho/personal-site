@@ -5,7 +5,7 @@ title: "Online Team Formation Under Different Synergies"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- maeichho
+- admin
 - Siddhartha Banerjee
 - David Kempe
 
@@ -24,7 +24,7 @@ publishDate: "2022-12-09T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: [Conference paper]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Web and Internet Economics*
