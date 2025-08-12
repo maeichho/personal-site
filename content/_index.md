@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2025-01-26
+date: 2025-08-12
 type: landing
 
 design:
@@ -68,6 +68,8 @@ sections:
       title: 'Teaching Experience'
       subtitle: ''
       text: |-
+        In Fall 2025, I am co-teaching [CS 2110](https://www.cs.cornell.edu/courses/cs2110/2025fa/): *Object-Oriented Programming and Data Structures* with [Leah Perlmutter](https://perlmutter.cs.grinnell.edu/home/). 
+        
         In Spring 2025, I am co-teaching [CS 2110](https://www.cs.cornell.edu/courses/cs2110/2025sp/): *Object-Oriented Programming and Data Structures* with [Curran Muhlberger](https://www.cs.cornell.edu/~curran/). 
 
         In Fall 2024, I taught CS 2800, now called *Mathematical Foundations of Computing*.

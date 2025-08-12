@@ -20,5 +20,5 @@ main:
     url: materials/about/
     weight: 50
   - name: CV
-    url: resume.pdf
+    url: cv.pdf
     weight: 60
